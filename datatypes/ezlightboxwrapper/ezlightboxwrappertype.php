@@ -270,6 +270,4 @@ class eZLightBoxWrapperType extends eZDataType
     public $MaxLenValidator;
 }
 
-eZDataType::register( eZLightBoxWrapperType::DATA_TYPE_STRING, 'eZLightBoxWrapperType' );
-
 ?>

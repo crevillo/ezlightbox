@@ -4,7 +4,6 @@
 ExtensionDirectories[]=ezlightbox
 
 [DataTypeSettings]
-ExtensionDirectories[]=ezlightbox
-AvailableDataTypes[]=ezlightboxwrapper
+AvailableDataTypes[ezlightboxwrapper]=eZLightBoxWrapperType
 
 */ ?>
